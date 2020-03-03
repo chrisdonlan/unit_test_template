@@ -2,4 +2,4 @@
 
 pull to your project, updating cmakelists file to reflect your project name. 
 
-Use the example test as a guide.  It is fairly self explanatory once you have it working. 
+Use the example test as a guide.
